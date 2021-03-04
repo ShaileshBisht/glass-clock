@@ -35,7 +35,8 @@ section::after {
   height: 250px;
   border-radius: 10px;
   background: linear-gradient(#01d6ff, #0f24f5);
-  animation: animate 5s ease-in-out infinite;
+  animation: animate 4s ease-in-out infinite;
+  animation-delay: -2s;
 }
 
 @keyframes animate {
