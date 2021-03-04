@@ -67,3 +67,8 @@ section::after {
   align-items: center;
   height: 100%;
 }
+
+.clock .container h2 {
+  font-size: 6em;
+  color: #fff;
+}
