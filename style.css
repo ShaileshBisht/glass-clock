@@ -23,6 +23,7 @@ section::before {
   height: 300px;
   border-radius: 10px;
   background: linear-gradient(#f9d924, #ff2c24);
+  animation: animate 5s ease-in-out infinite;
 }
 
 section::after {
@@ -34,4 +35,5 @@ section::after {
   height: 250px;
   border-radius: 10px;
   background: linear-gradient(#01d6ff, #0f24f5);
+  animation: animate 5s ease-in-out infinite;
 }
